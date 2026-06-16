@@ -9,12 +9,19 @@ toc:
   sidebar: left
 ---
 
-Results-driven Senior Software & Data Engineer with 9+ years of experience in
+Results-driven Senior Data/Software Engineer with 10+ years of experience in
 cloud computing, back-end development, and data security. Below is a summary of
 where I've worked.
 
+## Tactable
+
+**Senior Data/Software Engineer** · Toronto, Canada · Aug 2025 – Present
+
+Building data and back-end systems as a Senior Data/Software Engineer.
+
 ## TELUS
-**Senior Data/Cloud Engineer** · Toronto, Canada · Jul 2024 – Present
+
+**Senior Data/Cloud Engineer** · Toronto, Canada · Jul 2024 – Aug 2025
 
 - Develop high-quality data solutions and modernize cloud infrastructure with
   Google Cloud.
@@ -23,6 +30,7 @@ where I've worked.
 - Mentor junior engineers and foster a collaborative technical environment.
 
 ## Badal.io
+
 **Senior Data/Cloud Engineer** · Toronto, Canada · Feb 2023 – Jul 2024
 
 - Designed and implemented data loss prevention models using Python and Google
@@ -33,6 +41,7 @@ where I've worked.
 - Diagnosed root causes of production issues and provided actionable solutions.
 
 ## Nubank
+
 **Senior Software Engineer** · São Paulo, Brazil · Nov 2021 – Feb 2023
 
 - Developed features for a digital bank with 70M+ customers, optimizing
@@ -42,6 +51,7 @@ where I've worked.
   the engineering team.
 
 ## Hotmart
+
 **Senior Software Engineer** · Belo Horizonte, Brazil · May 2019 – Sep 2021
 
 - Led a re-architecture of sales integration, reducing processing time by 10×.
@@ -53,12 +63,14 @@ where I've worked.
   deployment efficiency.
 
 ## Inter Bank
+
 **Software Engineer** · Belo Horizonte, Brazil · Aug 2018 – May 2019
 
 - Developed Java-based microservices for financial products used by millions.
 - Worked with Spring Boot, PostgreSQL, and AWS, ensuring high software quality.
 
 ## Radix Engineering and Software
+
 **Software Engineer** · Belo Horizonte, Brazil · Apr 2018 – Aug 2018
 
 - Built large-scale software solutions for the fuel industry using Java, the

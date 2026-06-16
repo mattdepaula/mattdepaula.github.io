@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Software & Data Engineer · Toronto, Canada
+subtitle: Senior Data/Software Engineer · Toronto, Canada
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: avatar.png
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Toronto, Ontario, Canada</p>
 
@@ -25,10 +25,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm Matheus de Paula (Matt), a results-driven Senior Software & Data Engineer
-based in Toronto with 9+ years of experience in cloud computing, back-end
-development, and data security. I'm currently a Senior Data/Cloud Engineer at
-TELUS.
+I'm Matheus de Paula (Matt), a results-driven Senior Data/Software Engineer
+based in Toronto with 10+ years of experience in cloud computing, back-end
+development, and data security. I'm currently a Senior Data/Software Engineer at
+Tactable.
 
 I design scalable, high-performance solutions with Python, Java, Kotlin, and
 cloud technologies (AWS, GCP). Along the way I've optimized large-scale systems,

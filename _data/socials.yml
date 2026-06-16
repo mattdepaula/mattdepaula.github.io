@@ -1,7 +1,6 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-email: you@example.com # placeholder — replace with your email
 github_username: mattdepaula # your GitHub username
 linkedin_username: matheus-de-paula-b0867b95 # your LinkedIn vanity name (the part after /in/)
 rss_icon: true # comment this line to hide the RSS icon

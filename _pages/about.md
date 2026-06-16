@@ -25,21 +25,21 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm Matheus de Paula (Matt), an experienced Software & Data Engineer based in
-Toronto. I'm currently a Senior Software Engineer at Tactable, and over the
-years I've built and operated systems at companies like Badal.io, Nubank, and
-Hotmart — from large-scale financial platforms to data governance and
-observability pipelines.
+I'm Matheus de Paula (Matt), a Software Engineer based in Toronto with seven
+years of experience building back-end systems in Java and Kotlin. I'm currently
+a Senior Software Engineer at Tactable.
 
-As a back-end developer I build applications based on microservices, working
-mainly with Java, Kotlin, Python, the Spring Framework, MySQL, MongoDB, and
-cloud platforms like AWS and Google Cloud.
+Over the years I've migrated a large monolith platform into microservices and
+moved all environments from ECS to EKS on AWS; led a re-architecture of a sales
+integration handling 30,000+ sales per day that made processing 10× faster;
+built an authorization platform supporting 500,000+ requests per day; and led a
+technical discovery that improved tooling and lifted deal conversion by 10%.
 
-I care about software quality — clean code, solid object-oriented design,
-sensible design patterns, and tests I can trust. I also pick up new tools and
-languages quickly, and I enjoy doing it.
+I work mainly with Java, Kotlin, Python, the Spring Framework, AWS, and Google
+Cloud, and I care about software quality — clean code, solid object-oriented
+design, sensible design patterns, and tests I can trust.
 
-Use the navigation to browse my [projects](/projects/), read the
-[blog](/blog/), or check out my [CV](/cv/).
+See my full [experience](/experience/) for the details, or browse my
+[projects](/projects/) and [blog](/blog/).
 
 _Note: the projects and blog posts are still placeholders — swap in your own._

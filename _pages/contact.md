@@ -1,9 +1,9 @@
 ---
 title: "Contact"
 permalink: /contact/
-layout: single
-author_profile: true
 ---
+
+{% include nav.html %}
 
 Get in touch or find me online:
 

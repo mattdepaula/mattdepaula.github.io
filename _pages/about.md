@@ -1,9 +1,9 @@
 ---
 title: "About"
 permalink: /about/
-layout: single
-author_profile: true
 ---
+
+{% include nav.html %}
 
 Experienced Software Developer adept in bringing forth expertise in design,
 testing and maintenance of software systems.

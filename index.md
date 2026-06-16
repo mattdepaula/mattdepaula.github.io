@@ -1,9 +1,10 @@
 ---
 title: "Hi, I'm Matheus de Paula (Matt)"
+description: "Software Engineer"
 permalink: /
-layout: single
-author_profile: true
 ---
+
+{% include nav.html %}
 
 I'm a Software Engineer. Use the navigation above to learn more about me, browse
 my projects, or get in touch.

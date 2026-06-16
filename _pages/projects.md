@@ -1,9 +1,9 @@
 ---
 title: "Projects"
 permalink: /projects/
-layout: single
-author_profile: true
 ---
+
+{% include nav.html %}
 
 A selection of things I've built. Replace these with your own work.
 

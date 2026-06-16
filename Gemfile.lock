@@ -308,8 +308,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-include-cache
-  jekyll-remote-theme
   tzinfo (>= 1, < 3)
   tzinfo-data
 

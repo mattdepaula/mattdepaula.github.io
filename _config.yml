@@ -1,0 +1,49 @@
+# --- Site settings ---
+title: "Matheus de Paula"
+description: "Personal site of Matheus de Paula (Matt), Software Engineer."
+url: "https://mattdepaula.github.io"
+locale: "en-US"
+
+# --- Theme (Minimal Mistakes via remote_theme; native to GitHub Pages) ---
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "default" # air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
+
+# --- Author profile (sidebar) ---
+author:
+  name: "Matheus de Paula (Matt)"
+  avatar: # "/assets/images/avatar.jpg"
+  bio: "Software Engineer."
+  location: # "Your City"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mattdepaula"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/matheus-de-paula-b0867b95/"
+
+# --- Build settings ---
+markdown: kramdown
+include:
+  - _pages
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
+
+# --- Defaults applied to all pages ---
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# --- Exclude from build ---
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor

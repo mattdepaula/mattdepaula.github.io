@@ -1,0 +1,21 @@
+# Tool versions and tasks for this site.
+# Pinned to match the CI build in .github/workflows/deploy.yml.
+#
+# System packages (ImageMagick) are NOT managed here — install via Homebrew:
+#   brew install imagemagick
+
+[tools]
+ruby = "3.3.5"
+node = "20"
+
+[tasks.install]
+description = "Install Ruby gem and npm dependencies"
+run = "bundle install && npm ci"
+
+[tasks.serve]
+description = "Run the Jekyll dev server at http://127.0.0.1:4000"
+run = "bundle exec jekyll serve"
+
+[tasks.build]
+description = "Build the production site into _site/"
+run = "JEKYLL_ENV=production bundle exec jekyll build"

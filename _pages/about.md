@@ -1,44 +1,42 @@
 ---
-title: "About"
-permalink: /about/
+layout: about
+title: about
+permalink: /
+subtitle: Software Engineer · Back-end & Microservices
+
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>Your City, Country</p>
+    <p>Open to interesting problems</p>
+
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
+
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 ---
 
-{% include nav.html %}
+_This is placeholder text — replace it with your own story._
 
-Experienced Software Developer adept in bringing forth expertise in design,
-testing and maintenance of software systems.
+I'm Matheus de Paula (Matt), an experienced Software Engineer focused on the
+design, testing, and maintenance of back-end systems. I build applications
+based on microservices, working mainly with Java, Kotlin, the Spring Framework,
+MySQL, MongoDB, and cloud platforms like AWS and Google Cloud.
 
-As a back-end developer I work on several projects building applications based
-on microservices, using mainly **Java**, **Spring Framework**, **Kotlin**,
-**MySQL**, **MongoDB** and **AWS** services.
+I care about software quality — clean code, solid object-oriented design,
+sensible design patterns, and tests I can trust. I also pick up new tools and
+languages quickly, and I enjoy doing it.
 
-I'm able to learn new things quickly — tools like Udemy are a great way for me
-to keep improving my skills.
-
-I'm a professional who likes to build software with quality, so I always aim for
-good object-oriented programming practices, design patterns, clean code and
-tests.
-
-## Skills
-
-### Core
-
-- **Languages:** `Java` · `Kotlin`
-- **Frameworks:** `Spring Framework`
-- **Data:** `MySQL` · `MongoDB`
-- **Cloud:** `AWS`
-- **APIs:** `REST`
-- **Testing:** `JUnit` · `Mockito`
-- **Practices:** `Microservices` · `Object-oriented design` · `Design patterns` · `Clean code` · `TDD`
-
-### Familiar
-
-- **Languages:** `Python`
-- **Frameworks:** `FastAPI` · `Flask`
-- **Data:** `Redis`
-- **APIs:** `GraphQL` · `gRPC`
-- **Messaging & Streaming:** `Kafka` · `AWS SQS/SNS`
-- **Cloud & DevOps:** `Google Cloud` · `Docker` · `Kubernetes` · `GitHub Actions` · `Jenkins` · `GitLab CI`
-- **Build:** `Maven` · `Gradle`
-- **Testing:** `TestContainers`
-- **Methodology & Tools:** `Agile/Scrum` · `Git`
+Use the navigation to browse my [projects](/projects/), read the
+[blog](/blog/), or check out my [CV](/cv/). The fastest way to reach me is via
+the links below.

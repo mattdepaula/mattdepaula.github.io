@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data Engineer · Software Engineer · Toronto, Canada
+subtitle: Senior Software & Data Engineer · Toronto, Canada
 
 profile:
   align: right
@@ -25,19 +25,21 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm Matheus de Paula (Matt), a Software Engineer based in Toronto with seven
-years of experience building back-end systems in Java and Kotlin. I'm currently
-a Senior Software Engineer at Tactable.
+I'm Matheus de Paula (Matt), a results-driven Senior Software & Data Engineer
+based in Toronto with 9+ years of experience in cloud computing, back-end
+development, and data security. I'm currently a Senior Data/Cloud Engineer at
+TELUS.
 
-Over the years I've migrated a large monolith platform into microservices and
-moved all environments from ECS to EKS on AWS; led a re-architecture of a sales
-integration handling 30,000+ sales per day that made processing 10× faster;
-built an authorization platform supporting 500,000+ requests per day; and led a
-technical discovery that improved tooling and lifted deal conversion by 10%.
+I design scalable, high-performance solutions with Python, Java, Kotlin, and
+cloud technologies (AWS, GCP). Along the way I've optimized large-scale systems,
+led cloud migrations (ECS to Kubernetes), re-architected a sales integration to
+process transactions 10× faster, built an authorization platform handling
+500,000+ daily requests, and implemented data governance to strengthen security
+and compliance.
 
-I work mainly with Java, Kotlin, Python, the Spring Framework, AWS, and Google
-Cloud, and I care about software quality — clean code, solid object-oriented
-design, sensible design patterns, and tests I can trust.
+I enjoy solving complex technical challenges and care about software quality —
+clean code, solid object-oriented design, sensible design patterns, and tests I
+can trust.
 
 See my full [experience](/experience/) for the details, or browse my
 [projects](/projects/) and [blog](/blog/).

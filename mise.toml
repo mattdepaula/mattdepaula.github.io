@@ -7,10 +7,23 @@
 [tools]
 ruby = "3.3.5"
 node = "20"
+# Lint / pre-commit toolchain (used by .pre-commit-config.yaml)
+"pipx:pre-commit" = "latest"
+"pipx:yamllint" = "latest"
+"npm:markdownlint-cli2" = "latest"
+"npm:oxfmt" = "latest"
 
 [tasks.install]
 description = "Install Ruby gem and npm dependencies"
 run = "bundle install && npm ci"
+
+[tasks.setup-hooks]
+description = "Install the git pre-commit hooks"
+run = "pre-commit install"
+
+[tasks.lint]
+description = "Run all pre-commit hooks against every file"
+run = "pre-commit run --all-files"
 
 [tasks.serve]
 description = "Run the Jekyll dev server at http://127.0.0.1:4000"

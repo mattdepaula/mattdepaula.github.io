@@ -1,0 +1,16 @@
+// markdownlint-cli2 options
+// https://github.com/DavidAnson/markdownlint-cli2#configuration
+{
+  // Rule config lives in .markdownlint.jsonc; reference it here too.
+  "config": {
+    "extends": ".markdownlint.jsonc"
+  },
+  "ignores": [
+    "_site/**",
+    "node_modules/**",
+    "vendor/**",
+    ".llm/**",
+    ".remember/**",
+    "CHANGELOG.md"
+  ]
+}

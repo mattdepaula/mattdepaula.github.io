@@ -1,0 +1,15 @@
+// markdownlint rule configuration
+// https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md
+{
+  "default": true,
+  // Long lines are fine (prose, URLs, tables).
+  "MD013": false,
+  // Allow inline HTML — Jekyll/al-folio markdown embeds HTML and Liquid.
+  "MD033": false,
+  // First line need not be a top-level heading (pages use YAML front matter).
+  "MD041": false,
+  // Allow duplicate headings under different parents.
+  "MD024": { "siblings_only": true },
+  // Don't force a single ordered-list numbering style.
+  "MD029": false
+}
